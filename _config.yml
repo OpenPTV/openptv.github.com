@@ -1,0 +1,9 @@
+auto: false
+server: false
+lsi: false
+markdown: kramdown
+pygments: true
+permalink: /:year/:month/:day/:title
+paginate: 10
+title: OpenPTV - open source particle tracking velocimetry
+url: http://www.openptv.net
