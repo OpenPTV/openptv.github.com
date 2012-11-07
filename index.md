@@ -15,6 +15,6 @@ The origins are from the <a href="http://3dptv.github.com">3D-PTV</a> software, 
 [openPTV mailing list link on Google groups](https://groups.google.com/forum/#!forum/openptv)
 
 
-<p> If you are looking for the Open Source Personal Transport Vehicle, please go to http://www.openptv.org </p>
+<p> If you are looking for the Open Source Personal Transport Vehicle, please go to [http://www.openptv.org](http://www.openptv.org) </p>
  
 
