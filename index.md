@@ -1,3 +1,7 @@
+---
+layout: default
+title: OpenPTV - open source particle tracking velocimetry
+---
 
 <h3>Authors and Contributors</h3>
 
