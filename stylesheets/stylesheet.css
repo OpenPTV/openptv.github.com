@@ -292,6 +292,10 @@ Full-Width Styles
   border-bottom-right-radius: 2px;
 }
 
+#logo {
+background: url('../images/openptv_log.png') #0090ff no-repeat 95% 50%;
+}
+
 #header_wrap {
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
