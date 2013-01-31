@@ -21,6 +21,8 @@ April 29 - May 3, 2013
 
 ### Want to participate?
 
+If you are willing to add your code to the open source framework with all the credits reserved to your contribution, and want to help to develop better open source particle tracking software, don't hesitate to contact us. No previous programming experience is required. 
+
 Use our [mailing list](https://groups.google.com/forum/#!forum/openptv)
 
 Or drop us an [e-mail](openptv@gmail.com)
