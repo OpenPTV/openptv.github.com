@@ -3,6 +3,8 @@ layout: default
 title: OpenPTV kick-off COST MP0806 meeting
 ---
 
+# Workshop on Open Particle Tracking Velocimetry under COST MP0806 "Particles in turbulence" action
+
 
 ### What is the goal?
 
