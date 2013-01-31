@@ -10,6 +10,11 @@ OpenPTV foundation is a collaborative effort of several research groups to join 
 OpenPTV is [standing on the shoulders of giants](http://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). 
 The origins are from the [3D-PTV](http://3dptv.github.com) software, developed for years at ETH Zurich. Since then few additional branches of the software have been developed independently by TU/e group of [Turbulence and Vortex Dynamics](http://www.tue.nl/en/university/departments/applied-physics/research/transport-physics/turbulence-and-vortex-dynamics-wdy/) (C++ version with Tcl/Tk and few new algorithms of general coordinate transformation) and by the [Turbulence Structure Laboratory](http://www.eng.tau.ac.il/turbulencelab) at Tel Aviv University (Python version, PyPTV). 
 
+
+### COST MP0806 supported meeting in Tel Aviv, April 29 - May 3, 2013
+[Workshop on Open Particle Tracking Velocimetry](http://openptv.github.com/cost-meeting-tel-aviv.html)
+
+
 #### Support and contact info
 
 For professional support to your PTV applications get in contact with [photrack Ltd](http://www.photrack.ch).
@@ -19,7 +24,7 @@ For professional support to your PTV applications get in contact with [photrack 
 OpenPTV is thankful to the MP0806 "Particle in turbulence" COST action <http://mp0806.cineca.it> for the initial support.
 
 
-Want to ask a question? Use our [mailing list](https://groups.google.com/forum/#!forum/openptv)
+** Want to join? ** To ask a question? Use our [mailing list](https://groups.google.com/forum/#!forum/openptv)
 
 Or drop us an [e-mail](openptv@gmail.com)
 
