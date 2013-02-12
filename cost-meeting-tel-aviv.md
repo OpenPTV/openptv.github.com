@@ -14,6 +14,8 @@ To meet core developers of the OpenPTV, to start the project, to deliver first u
 
 **Room 234**, Wolfson Building of Mechanical Engineering, Tel Aviv University, use the interactive [campus map of the Tel Aviv University](http://www2.tau.ac.il/map/unimaple1.asp)
 
+![](http://www.iacmm.org.il/ISCM20/wolfson.jpg)
+
 ### When? 
 
 April 29 - May 3, 2013
@@ -21,7 +23,7 @@ April 29 - May 3, 2013
 
 ### Want to participate?
 
-If you are willing to add your code to the open source framework with all the credits reserved to your contribution, and want to help to develop better open source particle tracking software, don't hesitate to contact us. No previous programming experience is required. 
+If you are willing to add some code and invest some of your time to develop the **open source** framework with all the credits reserved to your contribution, and want to help to develop better open source particle tracking software, don't hesitate to contact us. No previous programming experience is required, it is enough if you want to learn and contribute. 
 
 Use our [mailing list](https://groups.google.com/forum/#!forum/openptv)
 
