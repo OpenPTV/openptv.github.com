@@ -6,6 +6,9 @@ title: OpenPTV kick-off COST MP0806 meeting
 # Workshop on Open Particle Tracking Velocimetry under COST MP0806 "Particles in turbulence" action
 
 
+[First announcement and a tentative program](https://docs.google.com/document/d/11N0ztjuZu9KjUxc8FpPpbODvOnFDQUZrO2o-7iwDJGE/pub)
+
+
 ### What is the goal?
 
 To meet core developers of the OpenPTV, to start the project, to deliver first user-friendly versions of OpenPTV in Matlab, C++ and Python. 
