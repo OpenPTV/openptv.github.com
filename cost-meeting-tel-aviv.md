@@ -11,7 +11,7 @@ title: OpenPTV kick-off COST MP0806 meeting
 
 ### What is the goal?
 
-To meet core developers of the OpenPTV, to start the project, to deliver first user-friendly versions of OpenPTV in Matlab, C++ and Python. 
+To meet future developers of the OpenPTV, to kick-off the project and hopefully to deliver the first user-friendly version of OpenPTV in Matlab, C++ and Python. Documentation and code sprints are planned in parallel to the lectures on Git version control, data management and tracking algorithms.
 
 ### Where?
 
@@ -45,5 +45,6 @@ Or drop us an [e-mail](openptv@gmail.com)
 
 #### Acknowledgments
 OpenPTV is thankful to the MP0806 "Particle in turbulence" COST action <http://mp0806.cineca.it>, [Faculty of Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=frontpage&Itemid=423&language=en-GB)  and the [School of Mechanical Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=article&id=195&Itemid=193&language=en-GB) at Tel Aviv University for their support.
+
 
 
