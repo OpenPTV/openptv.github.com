@@ -44,7 +44,6 @@ Or drop us an [e-mail](openptv@gmail.com)
 
 
 #### Acknowledgments
-OpenPTV is thankful to the MP0806 "Particle in turbulence" COST action <http://mp0806.cineca.it>, [Faculty of Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=frontpage&Itemid=423&language=en-GB)  and the [School of Mechanical Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=article&id=195&Itemid=193&language=en-GB) at Tel Aviv University for their support.
-
+OpenPTV is thankful to the MP0806 "Particle in turbulence" COST action <http://mp0806.cineca.it>, [Faculty of Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=frontpage&Itemid=423&language=en-GB)  and the [School of Mechanical Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=article&id=195&Itemid=193&language=en-GB) at Tel Aviv University for their financial and logistics support.
 
 
