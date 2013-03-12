@@ -15,9 +15,9 @@ The origins are from the [3D-PTV](http://3dptv.github.com) software, developed f
 
 ### Software 
 
-[C+Tcl/Tk version](http://documentup.com/OpenPTV/C-TclTk)
-[Python+C version](http://documentup.com/OpenPTV/openptv-python)
-[Examples](http://documentup.com/OpenPTV/examples)
+1. [C+Tcl/Tk version](http://documentup.com/OpenPTV/C-TclTk)  
+2. [Python+C version](http://documentup.com/OpenPTV/openptv-python)  
+3. [Examples](http://documentup.com/OpenPTV/examples)  
 
 
 
