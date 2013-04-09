@@ -16,7 +16,7 @@ The origins are from the [3D-PTV](http://3dptv.github.com) software, developed f
 ### Software 
 
 1. [C+Tcl/Tk version](http://documentup.com/OpenPTV/C-TclTk)  
-2. [Python+C version](http://documentup.com/OpenPTV/openptv-python)  
+2. [Python+C version](http://documentup.com/alexlib/openptv-python)  
 3. [Examples](http://documentup.com/OpenPTV/examples)  
 
 
@@ -51,6 +51,3 @@ Note that there are several methods that have similar names but different goals.
 *  [Single particle tracking](http://en.wikipedia.org/wiki/Single_particle_tracking)
 
 *  [Numerical method of Lagrangian particle tracking](http://en.wikipedia.org/wiki/Lagrangian_particle_tracking)
-
- 
-
