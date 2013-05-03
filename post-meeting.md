@@ -42,8 +42,9 @@ published: true
 
 ### The OpenPTV working plan
 
+The tentative working plan following the conclusions on the whiteboard is open for discussion here: <https://github.com/OpenPTV/working_plan/blob/master/README.md> 
 
-The tentative working plan following the conclusions on the whiteboard is open for discussion here: <https://github.com/OpenPTV/openptv/blob/master/docs/todo.md>
+More detailed to-do list is here: <https://github.com/OpenPTV/openptv/blob/master/docs/todo.md>
 
 
 #### Acknowledgments
