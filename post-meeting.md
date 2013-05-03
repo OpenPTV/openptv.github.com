@@ -1,16 +1,16 @@
 # Workshop on Open Particle Tracking Velocimetry under COST MP0806 "Particles in turbulence" action
 
 
-[First announcement and a tentative program](https://docs.google.com/document/d/11N0ztjuZu9KjUxc8FpPpbODvOnFDQUZrO2o-7iwDJGE/pub)
+[Final program](https://docs.google.com/spreadsheet/pub?key=0Ao8pBs4OPhMOdHdBbGsycnZKS3VvZTFZb1I1UzZQSkE&single=true&gid=0&output=html)
 
 ### List of participants and presentations
 
-1	Beat Luethi	ETHZ, Photrack AG, [2 cameras, Matlab PTV](https://docs.google.com/file/d/0B48pBs4OPhMORlZGcnZPeWQ5cE0/edit?usp=sharing) [Post processing, scanning](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) 
-2	Ruben Trieling, TU/e [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing) 
-3	Ad Holten, TU/e  [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing)
-4	Marc Wolf, ETH Zurich  [Post processing, scanning](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) [Jet entrainment via 3D-PTV](http://goo.gl/wO5hI) [Post processing of gradients, jet flow](http://goo.gl/wO5hI) 
-5	Atle Jensen,	Uni. Oslo  
-6	Alessandro Corbetta, TU/e  
+1	Beat Luethi	ETHZ, Photrack AG, | [2 cameras, Matlab PTV](https://docs.google.com/file/d/0B48pBs4OPhMORlZGcnZPeWQ5cE0/edit?usp=sharing) |  [Post processing, scanning](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) |   
+2	Ruben Trieling, TU/e [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing)  
+3	Ad Holten, TU/e  [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing)  
+4	Marc Wolf, ETH Zurich | [Post processing](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) | [Jet entrainment via 3D-PTV](http://goo.gl/wO5hI) | 
+5	Atle Jensen,	Uni. Oslo    
+6	Alessandro Corbetta, TU/e    
 7	Mickael Bourgoin, ENS Lyon  
 8	Olivier Liot, Legi/ENS Lyon  
 9	Nathanaël Machicoane, ENS Lyon  
