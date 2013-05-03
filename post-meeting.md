@@ -1,7 +1,9 @@
 ---
 layout: default
 title: OpenPTV kick-off meeting and workshop
+published: true
 ---
+
 # Workshop on Open Particle Tracking Velocimetry under COST MP0806 "Particles in turbulence" action
 
 
