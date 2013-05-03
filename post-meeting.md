@@ -4,7 +4,7 @@ title: OpenPTV kick-off meeting and workshop
 published: true
 ---
 
-# Workshop on Open Particle Tracking Velocimetry under COST MP0806 "Particles in turbulence" action
+# OpenPTV kick-off meeting and workshop, Tel Aviv University, April 29 - May 3, 2013
 
 
 [Final program](https://docs.google.com/spreadsheet/pub?key=0Ao8pBs4OPhMOdHdBbGsycnZKS3VvZTFZb1I1UzZQSkE&single=true&gid=0&output=html)
