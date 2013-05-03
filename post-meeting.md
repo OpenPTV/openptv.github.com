@@ -30,10 +30,10 @@ published: true
 17	Alex Liberzon, TAU, [Introductory lecture](https://docs.google.com/presentation/d/15_Em9xv7rknIUP7FainoSORx2o0UamCMzwVwMDgg8fw/pub?start=true&loop=false&delayms=3000)  
 18	Yosef Meller, TAU  
 19	Zachary J. Taylor, TAU, [PyQt, Matplotlib and more](http://www.zacharyjtaylor.com/2013/04/minimal-pyqt-demo-with-matplotlib.html)    
-22	Hadar Traugott, TAU  
-23	Shai Avidan, TAU  
-24	Alon Sussmann, TAU  
-25	Roi Gurka, BGU  
+20	Hadar Traugott, TAU  
+21	Shai Avidan, TAU  
+22	Alon Sussmann, TAU  
+23	Roi Gurka, BGU  
 
 
 ### Outcome - the whiteboard
@@ -52,4 +52,4 @@ OpenPTV group gratefully appreciates the financial support of:
 2. [Faculty of Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=frontpage&Itemid=423&language=en-GB)  
 3. [School of Mechanical Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=article&id=195&Itemid=193&language=en-GB) 
 
-We are also thankful to the staff of the Faculty of Engineering and of the School of Mechanical Engineering for their assistance with the meeting organization and logistics. 
+We are also thankful to the staff of the Faculty of Engineering and of the School of Mechanical Engineering for their assistance with the meeting organization and logistics.
