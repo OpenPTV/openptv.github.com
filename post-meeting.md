@@ -47,4 +47,9 @@ The tentative working plan following the conclusions on the whiteboard is open f
 
 
 #### Acknowledgments
-OpenPTV is thankful to the MP0806 "Particle in turbulence" COST action <http://mp0806.cineca.it>, [Faculty of Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=frontpage&Itemid=423&language=en-GB)  and the [School of Mechanical Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=article&id=195&Itemid=193&language=en-GB) at Tel Aviv University for their financial and logistics support.
+OpenPTV group gratefully appreciates the financial support of:  
+1. MP0806 **Particles in turbulence** COST action <http://mp0806.cineca.it>  
+2. [Faculty of Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=frontpage&Itemid=423&language=en-GB)  
+3. [School of Mechanical Engineering](http://www.eng.tau.ac.il/index.php?option=com_content&view=article&id=195&Itemid=193&language=en-GB) 
+
+We are also thankful to the staff of the Faculty of Engineering and of the School of Mechanical Engineering for their assistance with the meeting organization and logistics. 
