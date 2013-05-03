@@ -38,6 +38,7 @@ published: true
 
 ### Outcome - the whiteboard
 
+![Whiteboard](https://lh3.googleusercontent.com/-lo8asJ5n6a4/UYQC81Qvx9I/AAAAAAAAPn4/5RcVIoVavV4/w884-h397/IMG_5901.jpg)
 
 ### The OpenPTV working plan
 
