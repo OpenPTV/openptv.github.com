@@ -28,7 +28,7 @@ published: true
 15	Eldad Afik, Weizmann Institute  
 16	Simon Kolotov, TAU  
 17	Alex Liberzon, TAU, [Introductory lecture](https://docs.google.com/presentation/d/15_Em9xv7rknIUP7FainoSORx2o0UamCMzwVwMDgg8fw/pub?start=true&loop=false&delayms=3000)  
-18	Yosef Meller, TAU  
+18	Yosef Meller, TAU | [Open Source Software](https://docs.google.com/file/d/0B48pBs4OPhMOMWpacTJJQzgxX1U/edit?usp=sharing) | [Forces from PTV](https://docs.google.com/file/d/0B48pBs4OPhMOMWpacTJJQzgxX1U/edit?usp=sharing) |   
 19	Zachary J. Taylor, TAU, [PyQt, Matplotlib and more](http://www.zacharyjtaylor.com/2013/04/minimal-pyqt-demo-with-matplotlib.html)    
 20	Hadar Traugott, TAU  
 21	Shai Avidan, TAU  
