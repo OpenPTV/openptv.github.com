@@ -16,7 +16,7 @@ published: true
 3	Ad Holten, TU/e  [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing)  
 4	Marc Wolf, ETH Zurich | [Post processing](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) | [Jet entrainment via 3D-PTV](http://goo.gl/wO5hI) |   
 5	Atle Jensen,	Uni. Oslo    
-6	Alessandro Corbetta, TU/e, Polito [Crowd tracking]()    
+6	Alessandro Corbetta, TU/e, Polito [Crowd tracking]()   
 7	Mickael Bourgoin, ENS Lyon  
 8	Olivier Liot, Legi/ENS Lyon  
 9	Nathanaël Machicoane, ENS Lyon  
