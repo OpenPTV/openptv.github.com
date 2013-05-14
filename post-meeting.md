@@ -1,5 +1,4 @@
 ---
-published: true
 layout: default
 title: "OpenPTV kick-off meeting and workshop"
 
