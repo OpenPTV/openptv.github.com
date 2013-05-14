@@ -20,7 +20,7 @@ The origins are from the [3D-PTV](http://3dptv.github.com) software, developed f
 ### Kick-off meeting in Tel Aviv, April 29 - May 3, 2013
 
 
-<del>[Workshop on Open Particle Tracking Velocimetry](http://openptv.github.com/cost-meeting-tel-aviv.html)</del>
+[<del>Workshop on Open Particle Tracking Velocimetry</del>](http://openptv.github.com/cost-meeting-tel-aviv.html)
 
 [Outcome of the kick-off meeting](http://openptv.github.com/post-meeting.html)
 
