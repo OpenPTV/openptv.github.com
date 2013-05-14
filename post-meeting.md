@@ -12,24 +12,24 @@ title: "OpenPTV kick-off meeting and workshop"
 
 ### List of participants and presentations
 
-1	Beat Luethi	ETHZ, Photrack AG, | [2 cameras, Matlab PTV](https://docs.google.com/file/d/0B48pBs4OPhMORlZGcnZPeWQ5cE0/edit?usp=sharing) |  [Post processing, scanning](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) |   
-2	Ruben Trieling, TU/e [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing)  
-3	Ad Holten, TU/e  [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing)  
-4	Marc Wolf, ETH Zurich | [Post processing](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) | [Jet entrainment via 3D-PTV](http://goo.gl/wO5hI) |   
+1	Beat Luethi	ETHZ, Photrack AG, | [2 cameras, Matlab PTV](http://snack.to/bt3wke2f) |  [Calibration tutorial](http://snack.to/bdkaxfs9) |   
+2	Ruben Trieling, TU/e [PTV at TU/e](http://snack.to/btjehaqi)  
+3	Ad Holten, TU/e  [PTV at TU/e](http://snack.to/btjehaqi)  
+4	Marc Wolf, ETH Zurich | [Post processing](http://snack.to/bdp01lam) | [Jet entrainment via 3D-PTV](http://snack.to/bdcsz8lj) |   
 5	Atle Jensen,	Uni. Oslo    
-6	Alessandro Corbetta, TU/e, Polito [Crowd tracking](http://share.snacktools.com/97F69FBA9F7/btul75fn)  
-7	Mickael Bourgoin, ENS Lyon [Particles in Turbulence](http://goo.gl/IP5Wl)   
+6	Alessandro Corbetta, TU/e, Polito [Crowd tracking](http://snack.to/btul75fn)  
+7	Mickael Bourgoin, ENS Lyon [Particles in Turbulence](http://snack.to/bd15rmic)   
 8	Olivier Liot, Legi/ENS Lyon  
 9	Nathanaël Machicoane, ENS Lyon    
 10	Jan-Bert Flor, LEGI Grenoble  
-11	Patrik Steinhoff, RWTH Aachen  [3D-PTV at RTWH Aachen](http://goo.gl/wO5hI)  
+11	Patrik Steinhoff, RWTH Aachen  [3D-PTV at RTWH Aachen](http://snack.to/bdnqts03)  
 12	Lilly Verso, POLITO, TAU  
 13	Mark Baevsky, TAU  
-14	Mark Kreizer, TAU  [Real time 3D-PTV](https://docs.google.com/presentation/d/14m35-NR3SMYXxbvHvlC4zJqhufW72lLlXHeY9MdVQ_Y/pub?start=true&loop=false&delayms=3000)  
+14	Mark Kreizer, TAU  [Real time 3D-PTV](http://snack.to/bdxu3bry)  
 15	Eldad Afik, Weizmann Institute  
 16	Simon Kolotov, TAU  
-17	Alex Liberzon, TAU, [Introductory lecture](https://docs.google.com/presentation/d/15_Em9xv7rknIUP7FainoSORx2o0UamCMzwVwMDgg8fw/pub?start=true&loop=false&delayms=3000)  
-18	Yosef Meller, TAU | [Open Source Software](https://docs.google.com/file/d/0B48pBs4OPhMORVVTdW0wRlJ6Z00/edit?usp=sharing) | [Forces from PTV](https://docs.google.com/file/d/0B48pBs4OPhMOMWpacTJJQzgxX1U/edit?usp=sharing) |   
+17	Alex Liberzon, TAU, [Introductory lecture](http://snack.to/btunfdz6)  
+18	Yosef Meller, TAU | [Open Source Software](http://snack.to/btnqts03) | [Forces from PTV](http://snack.to/bdhfdi8p) |   
 19	Zachary J. Taylor, TAU, [PyQt, Matplotlib and more](http://www.zacharyjtaylor.com/2013/04/minimal-pyqt-demo-with-matplotlib.html)    
 20	Hadar Traugott, TAU  
 21	Shai Avidan, TAU  
