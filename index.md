@@ -16,8 +16,9 @@ The origins are from the [3D-PTV](http://3dptv.github.com) software, developed f
 
 
 ### Kick-off meeting in Tel Aviv, April 29 - May 3, 2013
-<del>[Workshop on Open Particle Tracking Velocimetry](http://openptv.github.com/cost-meeting-tel-aviv.html)</del>
 
+
+~~~[Workshop on Open Particle Tracking Velocimetry](http://openptv.github.com/cost-meeting-tel-aviv.html)~~~
 
 [Outcome of the kick-off meeting](http://openptv.github.com/post-meeting.html)
 
@@ -27,7 +28,7 @@ The origins are from the [3D-PTV](http://3dptv.github.com) software, developed f
 
 ### Software repository on Github 
 
-1. <del> [C+Tcl/Tk version (including test folder)](http://github.com/OpenPTV/C-TclTk) </del> - [stable version, development halted](http://openptv.github.com/post-meeting.html) 
+1. ~~~[C+Tcl/Tk version (including test folder)](http://github.com/OpenPTV/C-TclTk) ~~~ - [stable version, development halted](http://openptv.github.com/post-meeting.html) 
 2. **[Python - C version with the new `liboptv` library](http://github.com/alexlib/openptv-python)**  
 3. [Data examples](http://github.com/OpenPTV/examples)  
 
@@ -37,7 +38,7 @@ The origins are from the [3D-PTV](http://3dptv.github.com) software, developed f
 
 #### Support and contact info
 
-Ask your questions on our [Google group forum: ](https://groups.google.com/forum/#!forum/openptv) or drop us an [e-mail](openptv@gmail.com)
+Ask your questions on our [Google group forum: ](https://groups.google.com/forum/#!forum/openptv) or drop us an [e-mail](mailto:openptv@gmail.com)
 
 If you are interested in commercial applications and full support, ask the group or write to [photrack Ltd](http://www.photrack.ch)
 
