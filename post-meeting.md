@@ -1,7 +1,8 @@
 ---
-layout: default
-title: OpenPTV kick-off meeting and workshop
 published: true
+layout: default
+title: "OpenPTV kick-off meeting and workshop"
+
 ---
 
 # OpenPTV kick-off meeting and workshop, Tel Aviv University, April 29 - May 3, 2013
@@ -16,8 +17,8 @@ published: true
 3	Ad Holten, TU/e  [PTV at TU/e](https://docs.google.com/file/d/0B48pBs4OPhMOQ1BwTENjWjJrWVE/edit?usp=sharing)  
 4	Marc Wolf, ETH Zurich | [Post processing](https://docs.google.com/file/d/0B48pBs4OPhMOYWlOWDhrMEFNS28/edit?usp=sharing) | [Jet entrainment via 3D-PTV](http://goo.gl/wO5hI) |   
 5	Atle Jensen,	Uni. Oslo    
-6	Alessandro Corbetta, TU/e, Polito [Crowd tracking]()   
-7	Mickael Bourgoin, ENS Lyon  
+6	Alessandro Corbetta, TU/e, Polito [Crowd tracking](http://goo.gl/IP5Wl)   
+7	Mickael Bourgoin, ENS Lyon [Particles in Turbulence](http://goo.gl/IP5Wl) 
 8	Olivier Liot, Legi/ENS Lyon  
 9	Nathanaël Machicoane, ENS Lyon  
 10	Jan-Bert Flor, LEGI Grenoble  
