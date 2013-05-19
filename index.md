@@ -7,7 +7,10 @@ title: "OpenPTV - open source particle tracking velocimetry"
 
 # OpenPTV  
 
-### Open Source Particle Tracking Velocimetry
+### Open Source Particle Tracking Velocimetry 
+
+Follow us also on <a href="https://plus.google.com/101512342198902345717" rel="publisher">Google+</a>
+
 
 ### What is OpenPTV
 OpenPTV foundation is a collaborative effort of several research groups to join in order to develop a better software for [three-dimensional Lagrangian particle tracking velocimetry](http://en.wikipedia.org/wiki/Particle_tracking_velocimetry). 
