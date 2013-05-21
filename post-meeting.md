@@ -21,7 +21,7 @@ title: "OpenPTV kick-off meeting and workshop"
 7	Mickael Bourgoin, ENS Lyon [Particles in Turbulence](http://snack.to/bd15rmic)   
 8	Olivier Liot, Legi/ENS Lyon  
 9	Nathanaël Machicoane, ENS Lyon    
-10	Jan-Bert Flor, LEGI Grenoble  
+10	Jan-Bert Flor, LEGI Grenoble [OpenPTV interest at LEGI Grenoble](http://snack.to/bt3eo35k)   
 11	Patrik Steinhoff, RWTH Aachen  [3D-PTV at RTWH Aachen](http://snack.to/bdnqts03)  
 12	Lilly Verso, POLITO, TAU  
 13	Mark Baevsky, TAU  
