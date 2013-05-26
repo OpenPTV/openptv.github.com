@@ -1,5 +1,5 @@
 ---
-published: true
+published: !<tag:yaml.org,2002:js/undefined> ""
 layout: default
 title: "OpenPTV kick-off meeting and workshop"
 
@@ -16,7 +16,7 @@ title: "OpenPTV kick-off meeting and workshop"
 2	Ruben Trieling, TU/e [PTV at TU/e](http://snack.to/btjehaqi)  
 3	Ad Holten, TU/e  [PTV at TU/e](http://snack.to/btjehaqi)  
 4	Marc Wolf, ETH Zurich | [Post processing](http://snack.to/bdp01lam) | [Jet entrainment via 3D-PTV](http://snack.to/bdcsz8lj) |   
-5	Atle Jensen,	Uni. Oslo    
+5	Atle Jensen,	Uni. Oslo [PIV and PTV in Oslo](http://snack.to/bh90d8lj)     
 6	Alessandro Corbetta, TU/e, Polito [Crowd tracking](http://snack.to/btul75fn)  
 7	Mickael Bourgoin, ENS Lyon [Particles in Turbulence](http://snack.to/bd15rmic)   
 8	Olivier Liot, Legi/ENS Lyon  
