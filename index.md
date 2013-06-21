@@ -2,7 +2,6 @@
 published: true
 layout: default
 title: "OpenPTV - open source particle tracking velocimetry"
-
 ---
 
 # OpenPTV  
@@ -34,7 +33,7 @@ The origins are from the [3D-PTV](http://3dptv.github.com) software, developed f
 ### Software repository on Github 
 
 1. [C+Tcl/Tk version (including test folder)](http://github.com/OpenPTV/C-TclTk)  - [stable version, **development halted**](http://openptv.github.com/post-meeting.html) 
-2. [**Python - C version with the new `liboptv` library**](http://github.com/alexlib/openptv-python) 
+2. [**Python - C version with the new `liboptv` library**](http://github.com/openptv/openptv-python) 
 3. [Data examples](http://github.com/OpenPTV/examples)  
 
 
