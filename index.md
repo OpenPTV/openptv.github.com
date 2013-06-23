@@ -57,3 +57,8 @@ Note that there are several methods that have similar names but different goals.
 * [Two dimensional PIV method](http://en.wikipedia.org/wiki/Particle_tracking_velocimetry)  
 *  [Single particle tracking](http://en.wikipedia.org/wiki/Single_particle_tracking)  
 *  [Numerical method of Lagrangian particle tracking](http://en.wikipedia.org/wiki/Lagrangian_particle_tracking)
+
+------
+##### Our visitors
+<a href="http://www2.clustrmaps.com/user/84410cc6c"><img src="http://www2.clustrmaps.com/stats/maps-no_clusters/www.openptv.net-thumb.jpg" alt="Locations of visitors to this page" />
+</a>
