@@ -1,3 +1,6 @@
+layout: default
+title: "OpenPTV - open source particle tracking velocimetry"
+
 ## OpenPTV in photos and media
 
 [OpenPTV photos ](https://plus.google.com/photos/101512342198902345717/albums/5893491338114567681 "OpenPTV photos")
