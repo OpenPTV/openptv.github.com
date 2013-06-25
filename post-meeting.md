@@ -1,5 +1,5 @@
 ---
-published: !<tag:yaml.org,2002:js/undefined> ""
+published: true
 layout: default
 title: "OpenPTV kick-off meeting and workshop"
 
