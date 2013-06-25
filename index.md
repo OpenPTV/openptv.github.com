@@ -61,5 +61,6 @@ Note that there are several methods that have similar names but different goals.
 ------
 ##### Our visitors
 <a href="http://www2.clustrmaps.com/user/84410cc6c">
-<img src="http://www2.clustrmaps.com/stats/maps-no_clusters/www.openptv.net-thumb.jpg" alt="Locations of visitors to this page" width=200px/>
+<img src="http://www2.clustrmaps.com/stats/maps-no_clusters/www.openptv.net-thumb.jpg" alt="Locations of visitors to this page" style="width: 200px;"/>
 </a>
+
