@@ -31,7 +31,7 @@ OpenPTV is based on the core algorithms developed at ETH Zurich, see [3D-PTV](ht
 See some of our photos and media here: [photos and media](http://www.openptv.net/media.html "Photos and media")
 
 ### How to get started
-1. Read more about what this method is and what is not: http://3dptv.github.io/wiki/an_introduction_to_3d_ptv/index.html
+1. Read more about what this method is and what is not: [3D-PTV](http://3dptv.github.io/wiki/an_introduction_to_3d_ptv/index.html)
 2. Read the installation instructions for a few-clicks-away version or full open-source compilation http://alexlib.github.io/docs/
 3. Try one of the data example sets following our screencast tutorials http://alexlib.github.io/docs/tutorial.html
 
