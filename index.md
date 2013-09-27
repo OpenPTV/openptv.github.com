@@ -36,7 +36,7 @@ See some of our photos and media here: [photos and media](http://www.openptv.net
 3. Try one of the data example sets following our [screencast tutorials](http://alexlib.github.io/docs/tutorial.html)
 
 ### Software development is managed on Github 
-1. [**LGPL licensed `liboptv` library and MIT-licensed Python GUI **](http://github.com/openptv/openptv-python) 
+1. [** LGPL licensed `liboptv` library and MIT-licensed Python GUI **](http://github.com/openptv/openptv-python) 
 2. [Data examples](http://github.com/OpenPTV/examples)  
 
 We also maintain the original Zurich code [C+Tcl/Tk version (including test folder)](http://github.com/OpenPTV/C-TclTk)  - [stable version, **development halted**](http://openptv.github.com/post-meeting.html) 
