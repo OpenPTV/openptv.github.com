@@ -1,17 +1,14 @@
 ---
 layout: default
-title: Mozart License
+title: OpenPTV License
 ---
 
-# Mozart is Free Software
+# OpenPTV is Free Software
 
-Mozart is free software. Mozart is completely free of charge, including full
-source code and a license for all use including commercial use. Technically,
-the license is what's known as 'X11 style'.
 
-The [Free Software Foundation](http://www.fsf.org/) lists Mozart in its 
-[Free Software Directory](http://directory.fsf.org/).
+Check [Free Software Foundation](http://www.fsf.org/) for the definition of free software.
 
-## Mozart License Agreement
+## OpenPTV License Agreement
 
-You can also read the details of the [Mozart license](./license.html) ([as plain text](./LICENSE)).
+[LGPL licensed `liboptv` library and MIT-licensed Python GUI](http://github.com/openptv/openptv-python) 
+

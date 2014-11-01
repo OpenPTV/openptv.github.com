@@ -1,31 +1,22 @@
 ---
 layout: default
-title: Mozart Programming System
+title: OpenPTV software
 ---
 
-# Mozart Programming System
+# OpenPTV software
 
-The Mozart Programming System combines research in programming language design
-and implementation, constraint logic programming, distributed computing, and 
-human-computer interfaces.
+The OpenPTV, open source particle tracking velocimetry software includes the library, written in ANSI C, of the basic 
+algorithms of stereoscopic matching, particle detection, epipolar geometry and tracking that allow a complete processing
+of multi-camera images to obtain a three-dimensional (3D) motion of multiple objects. Typically the objects would be 
+small particles (flow tracers) but can be, not exclusively, insects or fish, or even humans. 
 
-Mozart provides expressive power and advanced functionality. Its 64-bit
-implementation supports modern architectures and provides both compiled and
-REPL interpreter execution for incremental development and experimentation.
-
-
-
-# Mozart 2 Alpha
-
-We are happy to announce the release of Mozart 2, and invite you to give it a
-try. The new release has a new 64 bit virtual machine and reflective
-language-extension layer. This will be used for future language research and
-teaching at UCL.
 
 ## Backwards-compatibility
 
-While the language in the main is unchanged, the *constraint* and *distribution*
-subsystems of Mozart 1 are not present in Mozart 2, so programs using them will
-not work. While distribution and constraints will be added to Mozart 2, they 
-will not be the same systems as those of Mozart 1, and backwards compatibility
-is not guaranteed.
+The software has been changing since the first days, due to different hardware, methods, algorithms, 
+scientific questions, and programming skills of the developers. We try to keep (see the mailing list for the 
+discussions) the backward compatibility using more or less the same simplest ASCII format for our configuration
+files, inputs and outputs. This is, however, not promised so if you plan to upgrade the software, keep the older version
+with your older data sets. 
+
+
