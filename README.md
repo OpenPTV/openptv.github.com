@@ -16,6 +16,6 @@ If you want to do it offline, then you need to read more about Jekyll, Github pa
 0. Have ruby (1.8.7 or preferably newer) installed, ruby -v
 1. (sudo) gem install bundler
 2. (sudo) bundle install
-3. bundle exec jekyll serve --watch
+3. bundle exec jekyll serve --watch --baserurl ' '
 
 http://jekyllrb.com/docs/usage/
