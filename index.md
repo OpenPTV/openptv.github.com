@@ -1,7 +1,6 @@
 ---
-published: true
 layout: default
-title: "OpenPTV - open source particle tracking velocimetry"
+title: Mozart Programming System
 ---
 
 # OpenPTV  
