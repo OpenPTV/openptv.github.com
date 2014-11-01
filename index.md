@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mozart Programming System
+title: OpenPTV software consortium
 ---
 
 # OpenPTV  
@@ -37,7 +37,7 @@ See some of our photos and media here: [photos and media](http://www.openptv.net
 3. Try one of the data example sets following our [screencast tutorials](http://alexlib.github.io/docs/tutorial.html)
 
 ### Software development is managed on Github 
-1. [** LGPL licensed `liboptv` library and MIT-licensed Python GUI **](http://github.com/openptv/openptv-python) 
+1. [LGPL licensed `liboptv` library and MIT-licensed Python GUI](http://github.com/openptv/openptv-python) 
 2. [Data examples](http://github.com/OpenPTV/examples)  
 
 We also maintain the original Zurich code [C+Tcl/Tk version (including test folder)](http://github.com/OpenPTV/C-TclTk)  - [stable version, **development halted**](http://openptv.github.com/post-meeting.html) 
@@ -49,7 +49,6 @@ Ask your questions on our [Google group based mailing list ](https://groups.goog
 
 If you are interested in commercial applications and full commercial support, ask the [group](https://groups.google.com/forum/#!forum/openptv) or write to [photrack Ltd](http://www.photrack.ch)
 
------
 
 #### Disclosure:
 If you are looking for the Open Source Personal Transport Vehicle, follow [openptv.org](http://www.openptv.org)
@@ -60,7 +59,6 @@ Note that there are few methods that use similar names but different goals. Open
 * [Single particle tracking](http://en.wikipedia.org/wiki/Single_particle_tracking)  
 * [Numerical method of Lagrangian particle tracking](http://en.wikipedia.org/wiki/Lagrangian_particle_tracking)
 
-------
 ##### Our visitors
 <a href="http://www2.clustrmaps.com/user/84410cc6c">
 <img src="http://www2.clustrmaps.com/stats/maps-no_clusters/www.openptv.net-thumb.jpg" alt="Locations of visitors to this page" style="width: 200px;"/>
