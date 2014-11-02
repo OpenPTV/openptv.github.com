@@ -11,12 +11,14 @@ title: "OpenPTV - open source particle tracking velocimetry"
 Follow us also on <a href="https://plus.google.com/101512342198902345717" rel="publisher">Google+</a>
 
 
-### What is Three-dimensional Particle Tracking Velocimetry
-Three dimensional particle tracking velocimetry (3D-PTV) is one of velocimetry methods, i.e a technique to measure velocity of particles". 3D-PTV is the three-dimensional method, measuring velocity and velocity gradients along particle trajectories, i.e. in Lagrangian framework, in three dimensions and in time. This is among few techniques that can measure objects motion in the fluid flow of whatever complexity, three-dimensionality and unsteadiness. It is possible to obtain full field of velocity, velocity derivatives along with the Lagrangian acceleration and its spatial derivatives of higher moments. Read more on [Wikipedia](http://en.wikipedia.org/wiki/Particle_tracking_velocimetry)
+### What is Three-dimensional Particle Tracking Velocimetry ?
+
+Three dimensional particle tracking velocimetry (3D-PTV) is one of the velocimetry methods, i.e a technique to measure velocity of particles. 3D-PTV is the three-dimensional method, measuring velocity and velocity gradients along particle trajectories, i.e. in Lagrangian framework, in three dimensions and in time. This is among the few techniques that can measure objects motion in the fluid flow of whatever complexity, three-dimensionality and unsteadiness. It is possible to obtain full field of velocity, velocity derivatives along with the Lagrangian acceleration and its spatial derivatives of higher moments. Read more on [Wikipedia.](http://en.wikipedia.org/wiki/Particle_tracking_velocimetry)
 
 
 ### What is Open source Particle Tracking Velocimetry
-OpenPTV foundation is a collaborative effort of several research groups to join in order to develop a better software for 3D-PTV. 
+
+The OpenPTV foundation is a collaborative effort of several research groups who joined in order to develop better software for 3D-PTV. 
 
 
 
@@ -31,7 +33,7 @@ OpenPTV is based on the core algorithms developed at ETH Zurich, see [3D-PTV](ht
 See some of our photos and media here: [photos and media](http://www.openptv.net/media.html "Photos and media")
 
 ### How to get started
-1. Read more about what this method is and what is not: [3D-PTV](http://3dptv.github.io/wiki/an_introduction_to_3d_ptv/index.html)
+1. Read more about what this method is and what it is not: [3D-PTV](http://3dptv.github.io/wiki/an_introduction_to_3d_ptv/index.html)
 2. Read the installation instructions for a few-clicks-away version or full open-source compilation: [Installation](http://alexlib.github.io/docs/)
 3. Try one of the data example sets following our [screencast tutorials](http://alexlib.github.io/docs/tutorial.html)
 
