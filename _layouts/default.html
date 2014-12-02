@@ -1,46 +1,99 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
   <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="openptv.github.com : Open Source Particle Tracking Velocimetry foundation" />
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="open source particle tracking velocimetry software - openptv">
+    <meta name="author" content="OpenPTV Consortium">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <link href="{{ site.baseurl}}/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 10px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
 
-    <title> OpenPTV </title>
+      #mozart-logo-img {
+        margin-bottom: 5px;
+      }
+    </style>
+    <link href="{{ site.baseurl}}/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" href="{{ site.baseurl}}/favicon.png" />
+    <link rel="apple-touch-icon" href="{{ site.baseurl}}/img/apple-touch-icon.png"/>
+
   </head>
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/OpenPTV">View on GitHub</a>
-	      <img src = "images/openptv_logo.png">
-        </header>
-    </div>
+    <div class="container-fluid">
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-      
-       {{ content }}
-      
-      </section>
-    </div>
+      <div class="row-fluid">
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-    
-    
+        <div class="span3">
+
+          <a href="/"><img src="{{ site.baseurl}}/images/openptv_original_logo.png" alt="OpenPTV Logo" id="openptv-logo-img"></a>
+
+          {% comment %} <!-- sidebar nav goes in this column --> {% endcomment %}
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">About</li>
+              <li><a href="{{ site.baseurl}}/">OpenPTV</a></li>
+              <li><a href="{{ site.baseurl}}/publications/">Publications</a></li>
+              <li><a href="{{ site.baseurl}}/history/">History</a></li>
+
+              <li class="nav-header">Use</li>
+              <li><a href="https://github.com/openptv/openptv-python">Download</a></li>
+              <li><a href="http://alexlib.github.io/docs/index.html">Documentation</a></li>
+              <li><a href="{{ site.baseurl}}/license-info/">License information</a></li>
 
 
-    
+              <li class="nav-header">Participate</li>
+              <li><a href="{{ site.baseurl}}/mailing-lists/">Mailing list</a></li>
+              <li><a href="https://github.com/openptv/openptv">Source code</a></li>
+              <li><a href="{{ site.baseurl}}/report-a-bug">Report a bug</a></li>
+	      <li><a href="{{ site.baseurl}}/collaboration-process">Collaboration process</a></li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+
+
+        <div class="span9">
+          {% comment %} <!-- The page content is inserted in this main column --> {% endcomment %}
+          {{ content }}
+        </div><!--/span-->
+
+
+
+      </div><!--/row-->
+
+    </div><!--/.fluid-container-->
+
+    <hr>
+
+    <footer>
+      <div class="container-fluid">
+        <p>&copy; OpenPTV Consortium 2014</p>
+      </div>
+    </footer>
+
+    {% comment %}
+    <!-- javascript -->
+    <!-- At end for faster page load -->
+    {% endcomment %}
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="{{ site.baseurl}}/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl}}/js/highlight_nav.js"></script>
 
   </body>
 </html>
