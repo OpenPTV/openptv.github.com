@@ -52,3 +52,9 @@ Note that there are few methods that use similar names but different goals. Open
 <a href="http://www2.clustrmaps.com/user/84410cc6c">
 <img src="http://www2.clustrmaps.com/stats/maps-no_clusters/www.openptv.net-thumb.jpg" alt="Locations of visitors to this page" style="width: 200px;"/>
 </a>
+
+
+#### Donations
+Please consider donation to support our website and domain expenses and our developers during their job transitions.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RK3FHXTCJDSWL)
