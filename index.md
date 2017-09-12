@@ -22,8 +22,8 @@ The OpenPTV foundation is a collaborative effort of several research groups who 
 
 ### Getting Started
 1. Read more about what this method is and what it is not: [3D-PTV](http://3dptv.github.io/wiki/an_introduction_to_3d_ptv/index.html)
-2. Read the installation instructions for a few-clicks-away version or full open-source compilation: [Installation](http://alexlib.github.io/docs/)
-3. Try one of the data example sets following our [screencast tutorials](http://alexlib.github.io/docs/tutorial.html)
+2. Read the installation instructions for a few-clicks-away version or full open-source compilation: [Installation](http://openptv-python.readthedocs.org/en/latest/installation_instruction.html)
+3. Try one of the data example sets following our [screencast tutorials](http://openptv-python.readthedocs.io/en/latest/tutorial.html)
 
 ### Software development is managed on Github 
 1. [LGPL licensed `liboptv` library and MIT-licensed Python GUI](http://github.com/openptv/openptv-python) 
