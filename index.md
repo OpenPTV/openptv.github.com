@@ -5,12 +5,7 @@ title: OpenPTV software consortium
 
 # OpenPTV  
 
-### Open Source Particle Tracking Velocimetry 
-
-Follow us also on <a href="https://plus.google.com/101512342198902345717" rel="publisher">Google+</a>
-
-
-### What is Three-dimensional Particle Tracking Velocimetry ?
+### Three-dimensional Particle Tracking Velocimetry ?
 
 Three dimensional particle tracking velocimetry (3D-PTV) is one of the velocimetry methods, i.e a technique to measure velocity of particles. 3D-PTV is the three-dimensional method, measuring velocity and velocity gradients along particle trajectories, i.e. in Lagrangian framework, in three dimensions and in time. This is among the few techniques that can measure objects motion in the fluid flow of whatever complexity, three-dimensionality and unsteadiness. It is possible to obtain full field of velocity, velocity derivatives along with the Lagrangian acceleration and its spatial derivatives of higher moments. Read more on [Wikipedia.](http://en.wikipedia.org/wiki/Particle_tracking_velocimetry)
 
